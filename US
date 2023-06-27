@@ -8,77 +8,28 @@ DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net,📺 巴哈姆特
 
 
 
-HOST-SUFFIX,achat-followers-instagram.com,🎬 Emby
-HOST-SUFFIX,acheter-followers-instagram.com,🎬 Emby
-HOST-SUFFIX,acheterdesfollowersinstagram.com,🎬 Emby
-HOST-SUFFIX,acheterfollowersinstagram.com,🎬 Emby
-HOST-SUFFIX,bookstagram.com,🎬 Emby
-HOST-SUFFIX,carstagram.com,🎬 Emby
-HOST-SUFFIX,cdninstagram.com,🎬 Emby
-HOST-SUFFIX,chickstagram.com,🎬 Emby
-HOST-SUFFIX,ig.me,🎬 Emby
-HOST-SUFFIX,igcdn.com,🎬 Emby
-HOST-SUFFIX,igsonar.com,🎬 Emby
-HOST-SUFFIX,igtv.com,🎬 Emby
-HOST-SUFFIX,imstagram.com,🎬 Emby
-HOST-SUFFIX,imtagram.com,🎬 Emby
-HOST-SUFFIX,instaadder.com,🎬 Emby
-HOST-SUFFIX,instachecker.com,🎬 Emby
-HOST-SUFFIX,instafallow.com,🎬 Emby
-HOST-SUFFIX,instafollower.com,🎬 Emby
-HOST-SUFFIX,instagainer.com,🎬 Emby
-HOST-SUFFIX,instagda.com,🎬 Emby
-HOST-SUFFIX,instagify.com,🎬 Emby
-HOST-SUFFIX,instagmania.com,🎬 Emby
-HOST-SUFFIX,instagor.com,🎬 Emby
-HOST-SUFFIX,instagr.am,🎬 Emby
-HOST-SUFFIX,instagram-brand.com,🎬 Emby
-HOST-SUFFIX,instagram-engineering.com,🎬 Emby
-HOST-SUFFIX,instagram-help.com,🎬 Emby
-HOST-SUFFIX,instagram-press.com,🎬 Emby
-HOST-SUFFIX,instagram-press.net,🎬 Emby
-HOST-SUFFIX,instagram.com,🎬 Emby
-HOST-SUFFIX,instagramci.com,🎬 Emby
-HOST-SUFFIX,instagramcn.com,🎬 Emby
-HOST-SUFFIX,instagramdi.com,🎬 Emby
-HOST-SUFFIX,instagramhashtags.net,🎬 Emby
-HOST-SUFFIX,instagramhilecim.com,🎬 Emby
-HOST-SUFFIX,instagramhilesi.org,🎬 Emby
-HOST-SUFFIX,instagramium.com,🎬 Emby
-HOST-SUFFIX,instagramizlenme.com,🎬 Emby
-HOST-SUFFIX,instagramkusu.com,🎬 Emby
-HOST-SUFFIX,instagramlogin.com,🎬 Emby
-HOST-SUFFIX,instagramm.com,🎬 Emby
-HOST-SUFFIX,instagramn.com,🎬 Emby
-HOST-SUFFIX,instagrampartners.com,🎬 Emby
-HOST-SUFFIX,instagramphoto.com,🎬 Emby
-HOST-SUFFIX,instagramq.com,🎬 Emby
-HOST-SUFFIX,instagramsepeti.com,🎬 Emby
-HOST-SUFFIX,instagramtakipcisatinal.net,🎬 Emby
-HOST-SUFFIX,instagramtakiphilesi.com,🎬 Emby
-HOST-SUFFIX,instagramtips.com,🎬 Emby
-HOST-SUFFIX,instagramtr.com,🎬 Emby
-HOST-SUFFIX,instagran.com,🎬 Emby
-HOST-SUFFIX,instagranm.com,🎬 Emby
-HOST-SUFFIX,instagrem.com,🎬 Emby
-HOST-SUFFIX,instagrm.com,🎬 Emby
-HOST-SUFFIX,instagtram.com,🎬 Emby
-HOST-SUFFIX,instagy.com,🎬 Emby
-HOST-SUFFIX,instamgram.com,🎬 Emby
-HOST-SUFFIX,instangram.com,🎬 Emby
-HOST-SUFFIX,instanttelegram.com,🎬 Emby
-HOST-SUFFIX,instaplayer.net,🎬 Emby
-HOST-SUFFIX,instastyle.tv,🎬 Emby
-HOST-SUFFIX,instgram.com,🎬 Emby
-HOST-SUFFIX,intagram.com,🎬 Emby
-HOST-SUFFIX,intagrm.com,🎬 Emby
-HOST-SUFFIX,intgram.com,🎬 Emby
-HOST-SUFFIX,kingstagram.com,🎬 Emby
-HOST-SUFFIX,lnstagram-help.com,🎬 Emby
-HOST-SUFFIX,oninstagram.com,🎬 Emby
-HOST-SUFFIX,online-instagram.com,🎬 Emby
-HOST-SUFFIX,onlineinstagram.com,🎬 Emby
-HOST-SUFFIX,theinstagramhack.com,🎬 Emby
-HOST-SUFFIX,web-instagram.net,🎬 Emby
-HOST-SUFFIX,wwwinstagram.com,🎬 Emby
-HOST-KEYWORD,instagram,🎬 Emby
+DOMAIN-SUFFIX,cdninstagram.com,🎬 Emby
+DOMAIN-SUFFIX,fb.com,🎬 Emby
+DOMAIN-SUFFIX,fb.me,🎬 Emby
+DOMAIN-SUFFIX,fbaddins.com,🎬 Emby
+DOMAIN-SUFFIX,fbcdn.net,🎬 Emby
+DOMAIN-SUFFIX,fbsbx.com,🎬 Emby
+DOMAIN-SUFFIX,fbworkmail.com,🎬 Emby
+DOMAIN-SUFFIX,instagram.com,🎬 Emby
+DOMAIN-SUFFIX,m.me,🎬 Emby
+DOMAIN-SUFFIX,messenger.com,🎬 Emby
+DOMAIN-SUFFIX,oculus.com,🎬 Emby
+DOMAIN-SUFFIX,oculuscdn.com,🎬 Emby
+DOMAIN-SUFFIX,rocksdb.org,🎬 Emby
+DOMAIN-SUFFIX,whatsapp.com,🎬 Emby
+DOMAIN-SUFFIX,whatsapp.net,🎬 Emby
+host-keyword,facebook,🎬 Emby
+ip-cidr, 3.123.36.126/32,🎬 Emby
+ip-cidr, 35.157.215.84/32,🎬 Emby
+ip-cidr, 35.157.217.255/32,🎬 Emby
+ip-cidr, 52.58.209.134/32,🎬 Emby
+ip-cidr, 54.93.124.31/32,🎬 Emby
+ip-cidr, 54.162.243.80/32,🎬 Emby
+ip-cidr, 54.173.34.141/32,🎬 Emby
+ip-cidr, 54.235.23.242/32,🎬 Emby
+ip-cidr, 169.45.248.118/32,📡 Global
