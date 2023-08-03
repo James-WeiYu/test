@@ -1,3 +1,7 @@
+#直连
+host-suffix,szxhdz.com,direct
+
+
 #openai美国
 DOMAIN-SUFFIX,openai.com,📺 巴哈姆特
 DOMAIN-SUFFIX,ai.com,📺 巴哈姆特
